@@ -18,4 +18,4 @@ function logWhisper(string)
   console.log(string.toUpperCase)
 }
 
-logShout(hello)
+logShout (hello)
